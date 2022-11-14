@@ -13,7 +13,7 @@ require("channels")
 import 'bootstrap/dist/js/bootstrap'
 import "bootstrap/dist/css/bootstrap";
 
-import "@fortawesome/fontawesome-free/css/all"
+import "@fontawesome/fontawesome-free/css/all"
 
 require("stylesheets/application.scss")
 
